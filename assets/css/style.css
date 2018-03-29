@@ -21,6 +21,10 @@
   .mainHeader{
       columns: 
   }
+  .col-md-5 {
+    background-image: url("assets/images/8ball.jpeg");
+    float: right;
+  }
   #game{
       text-align: left;
   }
